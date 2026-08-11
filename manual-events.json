@@ -50,6 +50,17 @@
       "type": "patch",
       "estimated": true,
       "note": "The Last Titan / 13.0"
+    },
+    {
+      "uid": "wow-blizzcon-2026@wowcalendarexport",
+      "title": "BlizzCon 2026",
+      "date": "2026-09-12",
+      "end_date": "2026-09-14",
+      "type": "event",
+      "estimated": false,
+      "location": "Anaheim Convention Center, Anaheim, California",
+      "description": "BlizzCon 2026 findet am 12. und 13. September 2026 im Anaheim Convention Center statt. Die Vor-Ort-Registrierung und Abholung von Badge/Armband beginnt am 11. September. Aktuell sind alle regulären BlizzCon-Pässe vergeben; Blizzard verweist auf den öffentlichen Tixr-Wiederverkaufsmarkt. Angekündigt sind die Eröffnungszeremonie, Entwickler-Panels, Hands-on-Demos u. a. für World of Warcraft, Diablo IV, Overwatch, Hearthstone und Diablo Immortal, Blizzard Arcade, Dunkelmond-Jahrmarkt und Community Night. WoW-Esports: Arena World Championship und Mythic Dungeon International. Die detaillierte Programmplanung ist noch nicht vollständig veröffentlicht.",
+      "source": "https://blizzcon.com/de-de/"
     }
   ]
 }
