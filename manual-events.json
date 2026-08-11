@@ -21,6 +21,27 @@
       "date": "2026-12-02",
       "type": "patch",
       "estimated": true
+    },
+    {
+      "uid": "wow-patch-12-2-20270127@wowcalendarexport",
+      "title": "12.2?",
+      "date": "2027-01-27",
+      "type": "patch",
+      "estimated": true
+    },
+    {
+      "uid": "wow-patch-12-2-5-20270324@wowcalendarexport",
+      "title": "12.2.5?",
+      "date": "2027-03-24",
+      "type": "patch",
+      "estimated": true
+    },
+    {
+      "uid": "wow-patch-12-2-7-20270519@wowcalendarexport",
+      "title": "12.2.7?",
+      "date": "2027-05-19",
+      "type": "patch",
+      "estimated": true
     }
   ]
 }
