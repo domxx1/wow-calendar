@@ -425,4 +425,24 @@ DESCRIPTION:The Last Titan / 13.0
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026@wowcalendarexport
+DTSTAMP:20260811T111000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:BlizzCon 2026
+LOCATION:Anaheim Convention Center\, Anaheim\, California
+DESCRIPTION:12.–13. September 2026 im Anaheim Convention Center.\nVor-Ort-
+ Registrierung und Abholung von Badge/Armband ab 11. September.\nAlle regul
+ ären BlizzCon-Pässe sind derzeit vergeben. Blizzard verweist auf den öffentl
+ ichen Tixr-Wiederverkaufsmarkt.\nProgramm: Eröffnungszeremonie\, Entwickler-
+ Panels\, Hands-on-Demos für World of Warcraft\, Diablo IV\, Overwatch\, Hearth
+ stone und Diablo Immortal\, Blizzard Arcade\, Dunkelmond-Jahrmarkt und Commu
+ nity Night.\nWoW-Esports: Arena World Championship und Mythic Dungeon Intern
+ ational. Esports-Matches werden kostenlos gestreamt.\nDer vollständige Zeitp
+ lan ist noch nicht veröffentlicht.
+URL:https://blizzcon.com/de-de/
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
 END:VCALENDAR
