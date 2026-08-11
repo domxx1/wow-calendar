@@ -366,7 +366,7 @@ UID:wow-patch-12-1-20260812@wowcalendarexport
 DTSTAMP:20260811T072600Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:12.1
+SUMMARY:12.1 - Fluch von Ula'tek
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
@@ -432,11 +432,7 @@ DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:BlizzCon 2026 – Warcraft
 LOCATION:Anaheim Convention Center\, Anaheim\, California
-DESCRIPTION:12.–13. September 2026 im Anaheim Convention Center.\nDieser Ka
- lender enthält für die BlizzCon ausschließlich Inhalte zur Warcraft-IP.\nA
- ktuell bestätigt: Hands-on-Demos für World of Warcraft.\nKonkrete Warcraft
- -Panels\, Präsentationen und Uhrzeiten werden ergänzt\, sobald Blizzard sie
-  offiziell veröffentlicht.\nE-Sport-Inhalte werden nicht aufgenommen.
+DESCRIPTION:12.–13. September 2026 im Anaheim Convention Center.\nDieser Kalender enthält für die BlizzCon ausschließlich Inhalte zur Warcraft-IP.\nAktuell bestätigt: Hands-on-Demos für World of Warcraft.\nKonkrete Warcraft-Panels\, Präsentationen und Uhrzeiten werden ergänzt\, sobald Blizzard sie offiziell veröffentlicht.\nE-Sport-Inhalte werden nicht aufgenommen.
 URL:https://blizzcon.com/de-de/
 CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
