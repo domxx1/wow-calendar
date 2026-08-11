@@ -42,6 +42,14 @@
       "date": "2027-05-19",
       "type": "patch",
       "estimated": true
+    },
+    {
+      "uid": "wow-patch-13-0-20270714@wowcalendarexport",
+      "title": "TLT?",
+      "date": "2027-07-14",
+      "type": "patch",
+      "estimated": true,
+      "note": "The Last Titan / 13.0"
     }
   ]
 }
