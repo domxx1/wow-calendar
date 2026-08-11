@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "uid": "wow-patch-12-1-20260812@wowcalendarexport",
+      "title": "12.1",
+      "date": "2026-08-12",
+      "type": "patch",
+      "estimated": false
+    },
+    {
+      "uid": "wow-patch-12-1-5-20261007@wowcalendarexport",
+      "title": "12.1.5?",
+      "date": "2026-10-07",
+      "type": "patch",
+      "estimated": true
+    },
+    {
+      "uid": "wow-patch-12-1-7-20261202@wowcalendarexport",
+      "title": "12.1.7?",
+      "date": "2026-12-02",
+      "type": "patch",
+      "estimated": true
+    }
+  ]
+}
