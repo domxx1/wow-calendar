@@ -57,10 +57,132 @@
       "date": "2026-09-12",
       "end_date": "2026-09-14",
       "type": "event",
+      "category": "BlizzCon",
       "estimated": false,
       "location": "Anaheim Convention Center, Anaheim, California",
-      "description": "BlizzCon 2026 findet am 12. und 13. September 2026 im Anaheim Convention Center statt. In diesem Kalender werden für die BlizzCon ausschließlich Inhalte zur Warcraft-IP berücksichtigt. Aktuell bestätigt sind unter anderem Hands-on-Demos für World of Warcraft. Konkrete Warcraft-Panels, Präsentationen und Uhrzeiten werden ergänzt, sobald Blizzard sie offiziell veröffentlicht. E-Sport-Inhalte werden nicht aufgenommen.",
-      "source": "https://blizzcon.com/de-de/"
+      "description": "12.–13. September 2026 im Anaheim Convention Center, Anaheim, Kalifornien. Dieser Kalender enthält für die BlizzCon ausschließlich Warcraft-/World-of-Warcraft-relevante Inhalte; MDI, AWC und Classic Cup werden nicht aufgenommen. Offizieller WoW-Zeitplan (MESZ): 12.09. 19:30–20:45 Eröffnungszeremonie; 21:00–21:45 World of Warcraft: Wie geht es weiter?; 23:00–23:45 Wie Zwischensequenzen in World of Warcraft entstehen; 23:45–00:30 World of Warcraft: Wie geht es weiter? II; 13.09. 00:30–02:30 World of Warcraft: Showcase mit Entwicklern und Creatorn; 19:00–19:45 World of Warcraft: Deep Dive; 19:45–20:30 World of Warcraft: Wie Gemütlichkeit und kreative Freiheit entstehen; 20:45–21:30 Wie die Welten von World of Warcraft entstehen; 22:15–23:00 World of Warcraft: Visuelle Gestaltung; 23:45–00:30 World of Warcraft: Design im Detail; 14.09. 01:15–02:00 World of Warcraft Hardcore: Wie geht es weiter? WoW-Zuschauerbelohnungen: 2 Std. 200 Händlerdevisen; 4 Std. Dekoration „Kuscheliger blauer Grrgle“; 8 Std. Reittier „Flauschig-gemütliche fliegende Decke“; 12 Std. Spielzeug „Prestigeträchtiges Banner des toxischen Champions“. Twitch-Drops: 12.09. 18:30 bis 27.09. 19:00 MESZ auf teilnahmeberechtigten WoW-Streams. YouTube-Belohnungen: 12.09. 18:30 bis 14.09. 04:00 MESZ auf dem offiziellen WoW-Kanal. Vor-Ort-Besucher müssen ihren BlizzCon-Pass spätestens bis 18.09.2026 mit Battle.net verbinden. Der Livestream ist kostenlos; Zeitplanänderungen sind möglich.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-opening@wowcalendarexport",
+      "title": "BlizzCon 2026 – Eröffnungszeremonie",
+      "start": "2026-09-12T19:30:00+02:00",
+      "end": "2026-09-12T20:45:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizielle BlizzCon-2026-Eröffnungszeremonie. Für den WoW-Kalender aufgenommen, da hier die großen Blizzard-/Warcraft-Ankündigungen starten.",
+      "source": "https://blizzcon.com/en-gb/schedule/"
+    },
+    {
+      "uid": "wow-blizzcon-2026-wow-whats-next@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Wie geht es weiter?",
+      "start": "2026-09-12T21:00:00+02:00",
+      "end": "2026-09-12T21:45:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-cutscenes@wowcalendarexport",
+      "title": "BlizzCon – Wie Zwischensequenzen in World of Warcraft entstehen",
+      "start": "2026-09-12T23:00:00+02:00",
+      "end": "2026-09-12T23:45:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-wow-whats-next-2@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Wie geht es weiter? II",
+      "start": "2026-09-12T23:45:00+02:00",
+      "end": "2026-09-13T00:30:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-dev-creator-showcase@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Showcase mit Entwicklern und Creatorn",
+      "start": "2026-09-13T00:30:00+02:00",
+      "end": "2026-09-13T02:30:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-wow-deep-dive@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Deep Dive",
+      "start": "2026-09-13T19:00:00+02:00",
+      "end": "2026-09-13T19:45:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-coziness@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Wie Gemütlichkeit und kreative Freiheit entstehen",
+      "start": "2026-09-13T19:45:00+02:00",
+      "end": "2026-09-13T20:30:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-world-building@wowcalendarexport",
+      "title": "BlizzCon – Wie die Welten von World of Warcraft entstehen",
+      "start": "2026-09-13T20:45:00+02:00",
+      "end": "2026-09-13T21:30:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-art-design@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Visuelle Gestaltung",
+      "start": "2026-09-13T22:15:00+02:00",
+      "end": "2026-09-13T23:00:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-design-deep-dive@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft: Design im Detail",
+      "start": "2026-09-13T23:45:00+02:00",
+      "end": "2026-09-14T00:30:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-blizzcon-2026-hardcore@wowcalendarexport",
+      "title": "BlizzCon – World of Warcraft Hardcore: Wie geht es weiter?",
+      "start": "2026-09-14T01:15:00+02:00",
+      "end": "2026-09-14T02:00:00+02:00",
+      "type": "event",
+      "category": "BlizzCon",
+      "estimated": false,
+      "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
+      "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
     }
   ]
 }
