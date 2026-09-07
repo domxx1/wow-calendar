@@ -543,15 +543,159 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-blizzcon-2026@wowcalendarexport
-DTSTAMP:20260907T060200Z
-LAST-MODIFIED:20260907T060200Z
-SEQUENCE:2
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:BlizzCon 2026 – Warcraft
-DESCRIPTION:BlizzCon 2026 findet am 12. und 13. September 2026 im Anaheim Convention Center statt. In diesem Kalender werden für die BlizzCon ausschließlich Inhalte zur Warcraft-IP berücksichtigt. Aktuell bestätigt sind unter anderem Hands-on-Demos für World of Warcraft. Konkrete Warcraft-Panels\, Präsentationen und Uhrzeiten werden ergänzt\, sobald Blizzard sie offiziell veröffentlicht. E-Sport-Inhalte werden nicht aufgenommen.
+DESCRIPTION:12.–13. September 2026 im Anaheim Convention Center\, Anaheim\, Kalifornien. Dieser Kalender enthält für die BlizzCon ausschließlich Warcraft-/World-of-Warcraft-relevante Inhalte\; MDI\, AWC und Classic Cup werden nicht aufgenommen. Offizieller WoW-Zeitplan (MESZ): 12.09. 19:30–20:45 Eröffnungszeremonie\; 21:00–21:45 World of Warcraft: Wie geht es weiter?\; 23:00–23:45 Wie Zwischensequenzen in World of Warcraft entstehen\; 23:45–00:30 World of Warcraft: Wie geht es weiter? II\; 13.09. 00:30–02:30 World of Warcraft: Showcase mit Entwicklern und Creatorn\; 19:00–19:45 World of Warcraft: Deep Dive\; 19:45–20:30 World of Warcraft: Wie Gemütlichkeit und kreative Freiheit entstehen\; 20:45–21:30 Wie die Welten von World of Warcraft entstehen\; 22:15–23:00 World of Warcraft: Visuelle Gestaltung\; 23:45–00:30 World of Warcraft: Design im Detail\; 14.09. 01:15–02:00 World of Warcraft Hardcore: Wie geht es weiter? WoW-Zuschauerbelohnungen: 2 Std. 200 Händlerdevisen\; 4 Std. Dekoration „Kuscheliger blauer Grrgle“\; 8 Std. Reittier „Flauschig-gemütliche fliegende Decke“\; 12 Std. Spielzeug „Prestigeträchtiges Banner des toxischen Champions“. Twitch-Drops: 12.09. 18:30 bis 27.09. 19:00 MESZ auf teilnahmeberechtigten WoW-Streams. YouTube-Belohnungen: 12.09. 18:30 bis 14.09. 04:00 MESZ auf dem offiziellen WoW-Kanal. Vor-Ort-Besucher müssen ihren BlizzCon-Pass spätestens bis 18.09.2026 mit Battle.net verbinden. Der Livestream ist kostenlos\; Zeitplanänderungen sind möglich.
 LOCATION:Anaheim Convention Center\, Anaheim\, California
-URL:https://blizzcon.com/de-de/
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-opening@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260912T173000Z
+DTEND:20260912T184500Z
+SUMMARY:BlizzCon 2026 – Eröffnungszeremonie
+DESCRIPTION:Offizielle BlizzCon-2026-Eröffnungszeremonie. Für den WoW-Kalender aufgenommen\, da hier die großen Blizzard-/Warcraft-Ankündigungen starten.
+URL:https://blizzcon.com/en-gb/schedule/
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-wow-whats-next@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260912T190000Z
+DTEND:20260912T194500Z
+SUMMARY:BlizzCon – World of Warcraft: Wie geht es weiter?
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-cutscenes@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260912T210000Z
+DTEND:20260912T214500Z
+SUMMARY:BlizzCon – Wie Zwischensequenzen in World of Warcraft entstehen
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-wow-whats-next-2@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260912T214500Z
+DTEND:20260912T223000Z
+SUMMARY:BlizzCon – World of Warcraft: Wie geht es weiter? II
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-dev-creator-showcase@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260912T223000Z
+DTEND:20260913T003000Z
+SUMMARY:BlizzCon – World of Warcraft: Showcase mit Entwicklern und Creatorn
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-wow-deep-dive@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T170000Z
+DTEND:20260913T174500Z
+SUMMARY:BlizzCon – World of Warcraft: Deep Dive
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-coziness@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T174500Z
+DTEND:20260913T183000Z
+SUMMARY:BlizzCon – World of Warcraft: Wie Gemütlichkeit und kreative Freiheit entstehen
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-world-building@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T184500Z
+DTEND:20260913T193000Z
+SUMMARY:BlizzCon – Wie die Welten von World of Warcraft entstehen
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-art-design@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T201500Z
+DTEND:20260913T210000Z
+SUMMARY:BlizzCon – World of Warcraft: Visuelle Gestaltung
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-design-deep-dive@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T214500Z
+DTEND:20260913T223000Z
+SUMMARY:BlizzCon – World of Warcraft: Design im Detail
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-blizzcon-2026-hardcore@wowcalendarexport
+DTSTAMP:20260907T060243Z
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
+DTSTART:20260913T231500Z
+DTEND:20260914T000000Z
+SUMMARY:BlizzCon – World of Warcraft Hardcore: Wie geht es weiter?
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
 END:VEVENT
 END:VCALENDAR

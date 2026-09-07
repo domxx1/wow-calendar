@@ -292,9 +292,64 @@
       "last_modified": "20260812T052957Z"
     },
     "wow-blizzcon-2026@wowcalendarexport": {
-      "fingerprint": "e31683b4d66fd75555c65ae3d01b0a204effb267e2ccd570df76e824e2c22a5a",
-      "sequence": 2,
-      "last_modified": "20260907T060200Z"
+      "fingerprint": "aadbf324c872510a73fde440148445f831ce2a6a08d8d9fdc590565c7f93c0e0",
+      "sequence": 3,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-opening@wowcalendarexport": {
+      "fingerprint": "17951d01a82e5f0ec8771205b659047c3741d373f3ebd33344eaeda3e2fd5edf",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-wow-whats-next@wowcalendarexport": {
+      "fingerprint": "ee18d6287965a58c36a7b8b71f4b483f18d064b6af5f95d521cfbf952982fbc0",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-cutscenes@wowcalendarexport": {
+      "fingerprint": "16bfa8b2834a25251b597441405fe8be4521542861fe0d2f91ddc28375b980bc",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-wow-whats-next-2@wowcalendarexport": {
+      "fingerprint": "fb480be84cbb47c12c48aecf309aecb9f9031dc17248b03699a50222a549803c",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-dev-creator-showcase@wowcalendarexport": {
+      "fingerprint": "438ab15fc0efcd403188e334bd5e9b0f2a9fd73fb28b37c4fdc3b514dae9c611",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-wow-deep-dive@wowcalendarexport": {
+      "fingerprint": "6e4c5e4eda8cf4c975b1c59d69b84c3cca566b7ab8587dc0f4df40b865e93f6f",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-coziness@wowcalendarexport": {
+      "fingerprint": "114a8ee1399f3f36397b2dba2089658b82fb476333cae59b6ce086556949ce50",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-world-building@wowcalendarexport": {
+      "fingerprint": "d3bf14c0a3e07ccb21484727ef825586adf08530ec53c7d0f01ef4a6f7ec8771",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-art-design@wowcalendarexport": {
+      "fingerprint": "dd33ad999d184535d2755bd2d5d748e774d81d05c0a1fda21bea1e83e1737d02",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-design-deep-dive@wowcalendarexport": {
+      "fingerprint": "e21525c9b72ca4f5342df4544aee611652dffa369fe332e52d7a2ea5732c6ddd",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
+    },
+    "wow-blizzcon-2026-hardcore@wowcalendarexport": {
+      "fingerprint": "6f17517bb610daa6ca2d6cda3ba0c61eb85c8c402f07f28fa757479733a54293",
+      "sequence": 1,
+      "last_modified": "20260907T060243Z"
     }
   }
 }
