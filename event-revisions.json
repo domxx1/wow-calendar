@@ -1,0 +1,300 @@
+{
+  "version": 1,
+  "events": {
+    "wow-622-20260729T0600@wowcalendarexport": {
+      "fingerprint": "c7b9913bab7406c340eb7f846f023c277ea14e7c308cb601bb3d8f97f42a4a12",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-691-20260801T1000@wowcalendarexport": {
+      "fingerprint": "dfcca5082eb42714ab58a3880f4e7f7e08f48632aebab9f45de56ac810cfa0bc",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1720-20260805T0600@wowcalendarexport": {
+      "fingerprint": "1c34cfdc48baf365889664d0cb62fc9ee4b38b3fc4301c0c6556b3f96fd87ab6",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1053-20260816T0001@wowcalendarexport": {
+      "fingerprint": "ea5212039769aba20d436463f808786d8c6f9ba7f24d710130e4148184bfeb6d",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1429-20260825T0001@wowcalendarexport": {
+      "fingerprint": "d5334805516be798b5d9f7b3dd276f262375a1770c8fc69c54d18393529f6d29",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-616-20260826T0600@wowcalendarexport": {
+      "fingerprint": "03ed9913ad483497dad88286d7654df7b460e758b3e3ec291fb8c5744fc5bc26",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1560-20260902T0600@wowcalendarexport": {
+      "fingerprint": "dba73de95ed37955a479735389324752e09c93cade6c5deefb927ce780f4c5e0",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1803-20260909T0600@wowcalendarexport": {
+      "fingerprint": "8987318df1812f342b9f916adacde267fe1b74e0c572d971b012a9e1374bf601",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-628-20260916T0600@wowcalendarexport": {
+      "fingerprint": "169cb765c54b1ff1fa5f112519e05ef5643df2967eefe28dfc0f572400692981",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-398-20260919T1000@wowcalendarexport": {
+      "fingerprint": "fe43aff8f52ecbba216a3e8b7d78ecee1db4a17b4186304205a26a1f47f18cd8",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-372-20260920T0700@wowcalendarexport": {
+      "fingerprint": "671148be52acc24f8082f89c31246370e5870ded5397317a8222048aa6fef197",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-321-20260921T1000@wowcalendarexport": {
+      "fingerprint": "6783b0a044c584e2cca4fafe565dee34c531144ffd9c9f6b2705a6a8942ea887",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-652-20261007T0500@wowcalendarexport": {
+      "fingerprint": "172babbddcfec3cacdbe59df778fd88d1e39c5f510d83f3ba3ea736e97818b55",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-696-20261010T0001@wowcalendarexport": {
+      "fingerprint": "e023e564df6b5c492dc16c78751846e0f79fdfe3823afbbf820662d25ef161f3",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-324-20261018T1000@wowcalendarexport": {
+      "fingerprint": "a025743243cb0e7892b453780d20febe349a7acd9054582b01a068ed21fe816f",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1560-20261021T0600@wowcalendarexport": {
+      "fingerprint": "0f4f813ec42f79e313eb0ad14db8b51f051c00d210a92f22d0201c649e76f618",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1063-20261028T0500@wowcalendarexport": {
+      "fingerprint": "60b5561e64d2a1ff53c4721ab64c87b8d9ee7837f0346a4e9ebcbbed42bf3dfc",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-409-20261101T1000@wowcalendarexport": {
+      "fingerprint": "4ee1c0899c3f5955929ca925bacbde0bc27c911cc79477189b54d329ae195385",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1803-20261104T0500@wowcalendarexport": {
+      "fingerprint": "d8dda468f1a61eaab25e4881583dc5bd48ff200d3b1d0bdf20469caaeb22da31",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-694-20261112T0001@wowcalendarexport": {
+      "fingerprint": "d1d7208a4c77821c65631c9d473c9fd79f7b6918fc14f41ef1650073c08c03a7",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1808-20261117T1000@wowcalendarexport": {
+      "fingerprint": "38e7a836eb9342d3ffe123114a8fb0a50922878860da3c42593febe3bf62903b",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1265-20261118T0500@wowcalendarexport": {
+      "fingerprint": "eb0c1e501a0fe3bd57ff14b2840eee4148583cce594d951d1f56f679efd479f6",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-404-20261122T1000@wowcalendarexport": {
+      "fingerprint": "07df56abfa698e066bc08ff8f4cc2223a6d05a596a4b26237bf42fa8a451452a",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1052-20261207T0001@wowcalendarexport": {
+      "fingerprint": "3a7f14c0e7e059417dd28c343d3e7b7d524867746b6134bee1df1d83b69487a5",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1667-20261209T0500@wowcalendarexport": {
+      "fingerprint": "5ac023fad61b1c2f3317e497b45905b0ba3c5b481bc9f8afd08738362f8e007a",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-141-20261215T1000@wowcalendarexport": {
+      "fingerprint": "734065f7d4c7b336d8be1990f04e2d48b17a84534ca5ea4f7f0fef37c12b8552",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1560-20261216T0500@wowcalendarexport": {
+      "fingerprint": "786988b99d0fab6d7eb443da9cb6dfb3b3b0e8f2db47bab2b24a1e9a81ce79f0",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1803-20261223T0500@wowcalendarexport": {
+      "fingerprint": "534aba78bff7f39a998811d01d78bbb76086d338303dcbba86eb2395b5df2a83",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1705-20261230T0500@wowcalendarexport": {
+      "fingerprint": "84ca5fd14ed313aa80cd83d19dc2b68824cf675e9de73c556eb27f69321f284a",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-658-20261231T1800@wowcalendarexport": {
+      "fingerprint": "a118bc511028770c05a9067242d4ff41166856f058428983d9e9a69a49383bd3",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1720-20270120T0700@wowcalendarexport": {
+      "fingerprint": "2fab179558f47a5332666d7c113df3fe1adac6c89d31d0a7801fbb4d5229e1b7",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-638-20270121T0001@wowcalendarexport": {
+      "fingerprint": "478df9e8e47ea9b266a6ffd45945e83332645655afacad532e918f71e432998f",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-327-20270202T1000@wowcalendarexport": {
+      "fingerprint": "aa1d357b294770b91a82ef22d622ebcb996090fbe68cfb00088778e3443bff8a",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-423-20270208T1000@wowcalendarexport": {
+      "fingerprint": "497b1cf24ff361e34a7a7893a619502a0077501458f4ef249549c803d1a49c2b",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1583-20270210T0500@wowcalendarexport": {
+      "fingerprint": "e5e2fd4e331af6c29990f335c35a6dfa272a5092faf48380647668bd48433380",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-634-20270223T0001@wowcalendarexport": {
+      "fingerprint": "1817d0af2279b63cde85c6baa497019cc986112dee98fdc8dfe06e8cac2b1f09",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1395-20270223T0001@wowcalendarexport": {
+      "fingerprint": "c68753ec8e41de3c173bae79d90c30996438044f6059baa78c23d32aed7fa0f8",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-644-20270317T0001@wowcalendarexport": {
+      "fingerprint": "25e1f1f5a7b87872bf9fa09086187d097eadfd0bdd2035ad2d473bd4d9d63d9d",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-691-20270320T1000@wowcalendarexport": {
+      "fingerprint": "619a62f6fefd5d703299dc6789e2d57418cc06c120e2a7916ac21f5551288c73",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-181-20270329T1000@wowcalendarexport": {
+      "fingerprint": "f15b987c321417d3910ca0430033884a54ae435c4a4c8e9117b0eefe23976f29",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-647-20270405T0001@wowcalendarexport": {
+      "fingerprint": "d862af22e33b796a89c8d0cfd6b9af67d4b2d1b6fcae4bee00acf29534e57dd6",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-635-20270428T0001@wowcalendarexport": {
+      "fingerprint": "8120b4b09137f26364a2d739db3a19f6371642b9ed2904f68cd0751bdecc9475",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-201-20270503T1000@wowcalendarexport": {
+      "fingerprint": "df4307d88519281c56a2c4cb6e0022c6746c037b44b376f4a8b7194da5bd06ee",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-645-20270510T0001@wowcalendarexport": {
+      "fingerprint": "c9b6b4101e3a1c147fd3c40e4e8a8179361c926380a7d00b49eb7fa20883732e",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-648-20270527T0001@wowcalendarexport": {
+      "fingerprint": "f29959999fd3c527cd416ed580436db97958e85c0b3062cb1d3e6d624221c2e0",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-642-20270606T0001@wowcalendarexport": {
+      "fingerprint": "7e28459d2475b418674e40bc6764fab25d289f1e7b3349473b68d9b7a9e7bd6d",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-341-20270621T1000@wowcalendarexport": {
+      "fingerprint": "cdf5456ab94b53b249fd84fd44f4c76c2639fffe2d03125ab52921c5f66b77ab",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1793-20270626T0001@wowcalendarexport": {
+      "fingerprint": "86347832b5d7e1def8610225bab7514f57e95196f0b8301f07cef7bc582baf6d",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-62-20270704T1000@wowcalendarexport": {
+      "fingerprint": "3a76be488a6be02687cf209e04e8275cbf818dd9f9793ceaf53048e0ea93cc88",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-1054-20270713T0001@wowcalendarexport": {
+      "fingerprint": "f7066734455d148688fb037588987fff94da0b2dcc5d8aac72141bf961d100ba",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-692-20270722T0001@wowcalendarexport": {
+      "fingerprint": "a490e8d27765874f917729b6adf66370711b7faf71f31fd0f9f77a95e51e9d60",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-1-20260812@wowcalendarexport": {
+      "fingerprint": "ac8328034f2102174c86b86e5f906b8650ac072e855b7c3c99ca1855e8ab7f7e",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-1-5-20261007@wowcalendarexport": {
+      "fingerprint": "aaed898e8f58d6b9348d96c4dd6a05c1c7dcb4472b11f038e1715b0bd07174c2",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-1-7-20261202@wowcalendarexport": {
+      "fingerprint": "83dbf84a675133619375474409a185da902c1948ca8d010db77bc7332533e81d",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-2-20270127@wowcalendarexport": {
+      "fingerprint": "c773524893c1a361e4916e26df05c0265dd6b1a70b51d6dc6fecca5e8419081c",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-2-5-20270324@wowcalendarexport": {
+      "fingerprint": "ef476cfe91e70de972153dcf907b3ab0a4a8b0f05c796143b2075c57022706d1",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-12-2-7-20270519@wowcalendarexport": {
+      "fingerprint": "d9b4c29fc52c610fc11420e1e4546ab135ee153b0160defe61f9e428cfc5482c",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-patch-13-0-20270714@wowcalendarexport": {
+      "fingerprint": "eef04fccd8321f8289b2164557a2722938dcaf1f196e515bbb9ae5f590b87ece",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    },
+    "wow-blizzcon-2026@wowcalendarexport": {
+      "fingerprint": "dce1d3e3793123b61e473fe20f136a65ada5e8e1df07214c3dc3bd865d545ecf",
+      "sequence": 1,
+      "last_modified": "20260812T052957Z"
+    }
+  }
+}
