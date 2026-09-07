@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'WoW-Calendar.ics'
+      - 'manual-events.json'
       - 'scripts/update_ics_revisions.py'
       - '.github/workflows/ics-revisions.yml'
 
@@ -25,14 +26,14 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Add revision metadata
+      - name: Sync manual events and revision metadata
         run: python scripts/update_ics_revisions.py
 
-      - name: Commit revision metadata
+      - name: Commit generated calendar data
         shell: bash
         run: |
           if git diff --quiet -- WoW-Calendar.ics event-revisions.json; then
-            echo "No revision metadata changes."
+            echo "No calendar changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
