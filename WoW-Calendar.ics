@@ -543,16 +543,15 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-blizzcon-2026@wowcalendarexport
-DTSTAMP:20260812T052957Z
-LAST-MODIFIED:20260812T052957Z
-SEQUENCE:1
+DTSTAMP:20260907T060200Z
+LAST-MODIFIED:20260907T060200Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:BlizzCon 2026 – Warcraft
+DESCRIPTION:BlizzCon 2026 findet am 12. und 13. September 2026 im Anaheim Convention Center statt. In diesem Kalender werden für die BlizzCon ausschließlich Inhalte zur Warcraft-IP berücksichtigt. Aktuell bestätigt sind unter anderem Hands-on-Demos für World of Warcraft. Konkrete Warcraft-Panels\, Präsentationen und Uhrzeiten werden ergänzt\, sobald Blizzard sie offiziell veröffentlicht. E-Sport-Inhalte werden nicht aufgenommen.
 LOCATION:Anaheim Convention Center\, Anaheim\, California
-DESCRIPTION:12.–13. September 2026 im Anaheim Convention Center.\nDieser Kalender enthält für die BlizzCon ausschließlich Inhalte zur Warcraft-IP.\nAktuell bestätigt: Hands-on-Demos für World of Warcraft.\nKonkrete Warcraft-Panels\, Präsentationen und Uhrzeiten werden ergänzt\, sobald Blizzard sie offiziell veröffentlicht.\nE-Sport-Inhalte werden nicht aufgenommen.
 URL:https://blizzcon.com/de-de/
-CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
 END:VEVENT
 END:VCALENDAR
