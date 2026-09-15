@@ -225,6 +225,17 @@
       "estimated": false,
       "description": "Freischaltung der ersten Schlachtzüge in World of Warcraft: Forever: Barrow Deeps (10 Spieler), Hyjal Summit (20 Spieler) und Onyxias Hort (40 Spieler).",
       "source": "https://worldofwarcraft.blizzard.com/de-de/news/24303862"
+    },
+    {
+      "uid": "wow-live-qa-20260917@wowcalendarexport",
+      "title": "World of Warcraft – Live-Fragerunde nach der BlizzCon",
+      "start": "2026-09-17T19:00:00+02:00",
+      "end": "2026-09-17T20:00:00+02:00",
+      "type": "event",
+      "category": "WoW Live",
+      "estimated": false,
+      "description": "Offizielle World-of-Warcraft-Live-Fragerunde mit Mitgliedern des Entwicklerteams nach den Enthüllungen der BlizzCon 2026. Themen können Retail und World of Warcraft: Forever umfassen. Stream auf den offiziellen Warcraft-Kanälen bei Twitch und YouTube; anschließend soll eine Aufzeichnung verfügbar sein. Offiziell bestätigt ist der Start um 19:00 Uhr MESZ. Eine Endzeit wurde nicht angegeben; der Kalenderblock ist daher zunächst auf eine Stunde gesetzt.",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24303312"
     }
   ]
 }

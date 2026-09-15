@@ -750,4 +750,17 @@ URL:https://worldofwarcraft.blizzard.com/de-de/news/24303862
 CATEGORIES:WoW Forever
 X-WOW-SOURCE:MANUAL
 END:VEVENT
+BEGIN:VEVENT
+UID:wow-live-qa-20260917@wowcalendarexport
+DTSTAMP:20260915T172817Z
+LAST-MODIFIED:20260915T172817Z
+SEQUENCE:1
+DTSTART:20260917T170000Z
+DTEND:20260917T180000Z
+SUMMARY:World of Warcraft – Live-Fragerunde nach der BlizzCon
+DESCRIPTION:Offizielle World-of-Warcraft-Live-Fragerunde mit Mitgliedern des Entwicklerteams nach den Enthüllungen der BlizzCon 2026. Themen können Retail und World of Warcraft: Forever umfassen. Stream auf den offiziellen Warcraft-Kanälen bei Twitch und YouTube\; anschließend soll eine Aufzeichnung verfügbar sein. Offiziell bestätigt ist der Start um 19:00 Uhr MESZ. Eine Endzeit wurde nicht angegeben\; der Kalenderblock ist daher zunächst auf eine Stunde gesetzt.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24303312
+CATEGORIES:WoW Live
+X-WOW-SOURCE:MANUAL
+END:VEVENT
 END:VCALENDAR
