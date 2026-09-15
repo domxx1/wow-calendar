@@ -183,6 +183,48 @@
       "estimated": false,
       "description": "Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.",
       "source": "https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr"
+    },
+    {
+      "uid": "wow-forever-beta-20260917@wowcalendarexport",
+      "title": "World of Warcraft: Forever – Beta",
+      "date": "2026-09-17",
+      "end_date": "2026-10-22",
+      "type": "event",
+      "category": "WoW Forever",
+      "estimated": false,
+      "description": "World of Warcraft: Forever-Beta vom 17. September bis einschließlich 21. Oktober 2026 (PST). Der Betazugang ist im Epic-Paket der Himmelsgeborenen und in der Sammlung: Warcraft Forever enthalten.",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24301508"
+    },
+    {
+      "uid": "wow-forever-name-reservation-20261027@wowcalendarexport",
+      "title": "World of Warcraft: Forever – Namensreservierung",
+      "date": "2026-10-27",
+      "end_date": "2026-11-04",
+      "type": "event",
+      "category": "WoW Forever",
+      "estimated": false,
+      "description": "Frühzeitige Namensreservierung vom 27. Oktober bis einschließlich 3. November 2026 (PST). In diesem Zeitraum können bis zu drei Charaktere erstellt und angepasst werden; Namen werden nach Reihenfolge des Eingangs reserviert.",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24301508"
+    },
+    {
+      "uid": "wow-forever-release-20261105@wowcalendarexport",
+      "title": "World of Warcraft: Forever – Release",
+      "date": "2026-11-05",
+      "type": "event",
+      "category": "WoW Forever",
+      "estimated": false,
+      "description": "World of Warcraft: Forever erscheint weltweit am 5. November 2026 um 00:00 Uhr MEZ (4. November 2026, 15:00 Uhr PST). Der Zugang ist im World-of-Warcraft-Abonnement bzw. in Spielzeit enthalten.",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24303862"
+    },
+    {
+      "uid": "wow-forever-raids-20261209@wowcalendarexport",
+      "title": "World of Warcraft: Forever – Erste Raids",
+      "date": "2026-12-09",
+      "type": "event",
+      "category": "WoW Forever",
+      "estimated": false,
+      "description": "Freischaltung der ersten Schlachtzüge in World of Warcraft: Forever: Barrow Deeps (10 Spieler), Hyjal Summit (20 Spieler) und Onyxias Hort (40 Spieler).",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24303862"
     }
   ]
 }
