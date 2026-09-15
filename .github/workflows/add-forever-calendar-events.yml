@@ -86,15 +86,18 @@ jobs:
           path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
           PY
 
-      - name: Commit calendar source update
+      - name: Regenerate iCalendar feed
+        run: python scripts/update_ics_revisions.py
+
+      - name: Commit generated calendar update
         shell: bash
         run: |
-          if git diff --quiet -- manual-events.json; then
+          if git diff --quiet -- manual-events.json WoW-Calendar.ics event-revisions.json; then
             echo "No changes needed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add manual-events.json
+          git add manual-events.json WoW-Calendar.ics event-revisions.json
           git commit -m "Add World of Warcraft Forever dates"
           git push
