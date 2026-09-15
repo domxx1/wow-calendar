@@ -1,0 +1,100 @@
+name: Add WoW Forever calendar events
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/add-forever-calendar-events.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  add-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Add Forever events to manual-events.json
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('manual-events.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          events = data.setdefault('events', [])
+          existing = {event.get('uid') for event in events}
+
+          additions = [
+              {
+                  'uid': 'wow-forever-beta-20260917@wowcalendarexport',
+                  'title': 'World of Warcraft: Forever – Beta',
+                  'date': '2026-09-17',
+                  'end_date': '2026-10-22',
+                  'type': 'event',
+                  'category': 'WoW Forever',
+                  'estimated': False,
+                  'description': 'World of Warcraft: Forever-Beta vom 17. September bis einschließlich 21. Oktober 2026 (PST). Der Betazugang ist im Epic-Paket der Himmelsgeborenen und in der Sammlung: Warcraft Forever enthalten.',
+                  'source': 'https://worldofwarcraft.blizzard.com/de-de/news/24301508'
+              },
+              {
+                  'uid': 'wow-forever-name-reservation-20261027@wowcalendarexport',
+                  'title': 'World of Warcraft: Forever – Namensreservierung',
+                  'date': '2026-10-27',
+                  'end_date': '2026-11-04',
+                  'type': 'event',
+                  'category': 'WoW Forever',
+                  'estimated': False,
+                  'description': 'Frühzeitige Namensreservierung vom 27. Oktober bis einschließlich 3. November 2026 (PST). In diesem Zeitraum können bis zu drei Charaktere erstellt und angepasst werden; Namen werden nach Reihenfolge des Eingangs reserviert.',
+                  'source': 'https://worldofwarcraft.blizzard.com/de-de/news/24301508'
+              },
+              {
+                  'uid': 'wow-forever-release-20261105@wowcalendarexport',
+                  'title': 'World of Warcraft: Forever – Release',
+                  'date': '2026-11-05',
+                  'type': 'event',
+                  'category': 'WoW Forever',
+                  'estimated': False,
+                  'description': 'World of Warcraft: Forever erscheint weltweit am 5. November 2026 um 00:00 Uhr MEZ (4. November 2026, 15:00 Uhr PST). Der Zugang ist im World-of-Warcraft-Abonnement bzw. in Spielzeit enthalten.',
+                  'source': 'https://worldofwarcraft.blizzard.com/de-de/news/24303862'
+              },
+              {
+                  'uid': 'wow-forever-raids-20261209@wowcalendarexport',
+                  'title': 'World of Warcraft: Forever – Erste Raids',
+                  'date': '2026-12-09',
+                  'type': 'event',
+                  'category': 'WoW Forever',
+                  'estimated': False,
+                  'description': 'Freischaltung der ersten Schlachtzüge in World of Warcraft: Forever: Barrow Deeps (10 Spieler), Hyjal Summit (20 Spieler) und Onyxias Hort (40 Spieler).',
+                  'source': 'https://worldofwarcraft.blizzard.com/de-de/news/24303862'
+              }
+          ]
+
+          for event in additions:
+              if event['uid'] not in existing:
+                  events.append(event)
+
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit calendar source update
+        shell: bash
+        run: |
+          if git diff --quiet -- manual-events.json; then
+            echo "No changes needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manual-events.json
+          git commit -m "Add World of Warcraft Forever dates"
+          git push
