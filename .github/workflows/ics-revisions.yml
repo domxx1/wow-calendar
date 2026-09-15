@@ -41,3 +41,5 @@ jobs:
           git add WoW-Calendar.ics event-revisions.json
           git commit -m "Update iCalendar revision metadata"
           git push
+
+# Manual refresh: WoW Forever dates added 2026-09-15
