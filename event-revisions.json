@@ -350,6 +350,26 @@
       "fingerprint": "6f17517bb610daa6ca2d6cda3ba0c61eb85c8c402f07f28fa757479733a54293",
       "sequence": 1,
       "last_modified": "20260907T060243Z"
+    },
+    "wow-forever-beta-20260917@wowcalendarexport": {
+      "fingerprint": "16677071320a695b11dff1dedf954c1f635e96f036d6850e704af300ab1dc1d4",
+      "sequence": 1,
+      "last_modified": "20260915T163115Z"
+    },
+    "wow-forever-name-reservation-20261027@wowcalendarexport": {
+      "fingerprint": "61348f1a85bceebfc4ba7f3da09416b22aed7ed52888287ee76f57ad9ff0a8bf",
+      "sequence": 1,
+      "last_modified": "20260915T163115Z"
+    },
+    "wow-forever-release-20261105@wowcalendarexport": {
+      "fingerprint": "b3d26dc34a9154145efe043fcdaa10e11c2d39cd9acbc6c13cdf99a9f3045701",
+      "sequence": 1,
+      "last_modified": "20260915T163115Z"
+    },
+    "wow-forever-raids-20261209@wowcalendarexport": {
+      "fingerprint": "9b44a4ce4d5ddbfb27bd973d1999535ade9c64f8f95758148f9258585d69e311",
+      "sequence": 1,
+      "last_modified": "20260915T163115Z"
     }
   }
 }

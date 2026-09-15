@@ -698,4 +698,56 @@ URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-n
 CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
 END:VEVENT
+BEGIN:VEVENT
+UID:wow-forever-beta-20260917@wowcalendarexport
+DTSTAMP:20260915T163115Z
+LAST-MODIFIED:20260915T163115Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20261022
+SUMMARY:World of Warcraft: Forever – Beta
+DESCRIPTION:World of Warcraft: Forever-Beta vom 17. September bis einschließlich 21. Oktober 2026 (PST). Der Betazugang ist im Epic-Paket der Himmelsgeborenen und in der Sammlung: Warcraft Forever enthalten.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24301508
+CATEGORIES:WoW Forever
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-forever-name-reservation-20261027@wowcalendarexport
+DTSTAMP:20260915T163115Z
+LAST-MODIFIED:20260915T163115Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261104
+SUMMARY:World of Warcraft: Forever – Namensreservierung
+DESCRIPTION:Frühzeitige Namensreservierung vom 27. Oktober bis einschließlich 3. November 2026 (PST). In diesem Zeitraum können bis zu drei Charaktere erstellt und angepasst werden\; Namen werden nach Reihenfolge des Eingangs reserviert.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24301508
+CATEGORIES:WoW Forever
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-forever-release-20261105@wowcalendarexport
+DTSTAMP:20260915T163115Z
+LAST-MODIFIED:20260915T163115Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:World of Warcraft: Forever – Release
+DESCRIPTION:World of Warcraft: Forever erscheint weltweit am 5. November 2026 um 00:00 Uhr MEZ (4. November 2026\, 15:00 Uhr PST). Der Zugang ist im World-of-Warcraft-Abonnement bzw. in Spielzeit enthalten.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24303862
+CATEGORIES:WoW Forever
+X-WOW-SOURCE:MANUAL
+END:VEVENT
+BEGIN:VEVENT
+UID:wow-forever-raids-20261209@wowcalendarexport
+DTSTAMP:20260915T163115Z
+LAST-MODIFIED:20260915T163115Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:World of Warcraft: Forever – Erste Raids
+DESCRIPTION:Freischaltung der ersten Schlachtzüge in World of Warcraft: Forever: Barrow Deeps (10 Spieler)\, Hyjal Summit (20 Spieler) und Onyxias Hort (40 Spieler).
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24303862
+CATEGORIES:WoW Forever
+X-WOW-SOURCE:MANUAL
+END:VEVENT
 END:VCALENDAR
