@@ -498,14 +498,12 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-12-2-20270127@wowcalendarexport
-DTSTAMP:20260929T134213Z
-LAST-MODIFIED:20260929T134213Z
-SEQUENCE:2
+DTSTAMP:20260812T052957Z
+LAST-MODIFIED:20260812T052957Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:12.2? - Eclipse
-DESCRIPTION:Offizieller Patchname „Eclipse“ für World of Warcraft: Midnight\, von Blizzard auf der BlizzCon 2026 angekündigt. Das derzeit hinterlegte Datum 27.01.2027 ist weiterhin nicht offiziell bestätigt.
-URL:https://worldofwarcraft.blizzard.com/de-de/news/24301145
+SUMMARY:12.2?
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
@@ -533,13 +531,13 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-13-0-20270714@wowcalendarexport
-DTSTAMP:20260929T134213Z
-LAST-MODIFIED:20260929T134213Z
-SEQUENCE:2
+DTSTAMP:20260812T052957Z
+LAST-MODIFIED:20260812T052957Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-SUMMARY:13.0? - The Last Titan
-DESCRIPTION:The Last Titan / 13.0. Blizzard hat auf der BlizzCon 2026 bestätigt\, dass The Last Titan das abschließende Kapitel der Weltenseelen-Saga bildet. Das derzeit hinterlegte Datum 14.07.2027 ist weiterhin nicht offiziell bestätigt.
+SUMMARY:TLT?
+DESCRIPTION:The Last Titan / 13.0
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
