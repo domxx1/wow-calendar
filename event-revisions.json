@@ -262,34 +262,34 @@
       "last_modified": "20260812T052957Z"
     },
     "wow-patch-12-1-5-20261007@wowcalendarexport": {
-      "fingerprint": "aaed898e8f58d6b9348d96c4dd6a05c1c7dcb4472b11f038e1715b0bd07174c2",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "847861f0c98338a3a5d8b085337ff36e975959a8c1784e015494906089a2342a",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-patch-12-1-7-20261202@wowcalendarexport": {
-      "fingerprint": "83dbf84a675133619375474409a185da902c1948ca8d010db77bc7332533e81d",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "3537df291dc9e9d6072952a9b29632e56ed6639fdbfb7031fc33e58d0114e81c",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-patch-12-2-20270127@wowcalendarexport": {
-      "fingerprint": "c773524893c1a361e4916e26df05c0265dd6b1a70b51d6dc6fecca5e8419081c",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "7a68331a9c095528f2197f074dd5988adaa77cfbf2d04f75395b51773cff55e7",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-patch-12-2-5-20270324@wowcalendarexport": {
-      "fingerprint": "ef476cfe91e70de972153dcf907b3ab0a4a8b0f05c796143b2075c57022706d1",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "cb44bf49bae1e5b4904ba1957b9f4b9691f56cecbcaa1be56f33349dc1c40920",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-patch-12-2-7-20270519@wowcalendarexport": {
-      "fingerprint": "d9b4c29fc52c610fc11420e1e4546ab135ee153b0160defe61f9e428cfc5482c",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "eeb7cd18f924898ff547160a82cd396e1239517fbccda265355cc100a88975b3",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-patch-13-0-20270714@wowcalendarexport": {
-      "fingerprint": "eef04fccd8321f8289b2164557a2722938dcaf1f196e515bbb9ae5f590b87ece",
-      "sequence": 1,
-      "last_modified": "20260812T052957Z"
+      "fingerprint": "be5a648a8c3b93e96398ec2144ad93d037618169670a4532c21bc52a57810a4c",
+      "sequence": 2,
+      "last_modified": "20261001T144710Z"
     },
     "wow-blizzcon-2026@wowcalendarexport": {
       "fingerprint": "aadbf324c872510a73fde440148445f831ce2a6a08d8d9fdc590565c7f93c0e0",
@@ -375,6 +375,51 @@
       "fingerprint": "892396d4f713a5e0876adae057751343bdba6479ba7652c2e0fe13c3ad9924ca",
       "sequence": 1,
       "last_modified": "20260915T172817Z"
+    },
+    "wow-patch-13-0-5-20271103@wowcalendarexport": {
+      "fingerprint": "0fd87957f2e32fda09282ec7cf1964d03c21774270e4ecc68fc3de622a2fd738",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-0-7-20280112@wowcalendarexport": {
+      "fingerprint": "8e8ff2f1962b9468ef8ef963ef09c6ea9231c03344a6599a02d0b34e9fef984a",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-1-0-20280308@wowcalendarexport": {
+      "fingerprint": "a62e51c687a019aa470ef535f9fd8e710d617806d0d9cae29bf74a0d42d3f264",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-1-5-20280503@wowcalendarexport": {
+      "fingerprint": "36a7fbf083ab658add76b528774c8e160626fddce55ba6847027eb3135986eaf",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-1-7-20280628@wowcalendarexport": {
+      "fingerprint": "8f6752f5ce950fc16c3028e3832e0d7c5fa07110d99081f66672351843eca3be",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-2-0-20280823@wowcalendarexport": {
+      "fingerprint": "d3a4855a90398a550633b185104fa367f8249c54944f0a1fcd749005f8429921",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-2-5-20281018@wowcalendarexport": {
+      "fingerprint": "51df80d9697b78d0d546775a56d6e7dd22407b2bad9042fcefcaadb963591054",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-patch-13-2-7-20281213@wowcalendarexport": {
+      "fingerprint": "fed80210dd6411b47b8b24f82a8d642bb0b2d89cbbd53ec60b9869c3cbcee379",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
+    },
+    "wow-expansion-next-20290314@wowcalendarexport": {
+      "fingerprint": "bc910f31e44c3d6eaf1cc13f74d712a335d76dd9b2bfc3d1fe1c2d453b0f723d",
+      "sequence": 1,
+      "last_modified": "20261001T144710Z"
     }
   }
 }
