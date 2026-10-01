@@ -10,46 +10,54 @@
     },
     {
       "uid": "wow-patch-12-1-5-20261007@wowcalendarexport",
-      "title": "12.1.5?",
-      "date": "2026-10-07",
+      "title": "12.1.5",
+      "date": "2026-10-14",
       "type": "patch",
-      "estimated": true
+      "estimated": false,
+      "description": "Offizieller EU-Release des Midnight-Inhaltsupdates 12.1.5 am 14. Oktober 2026 im Zuge der wöchentlichen Wartungsarbeiten.",
+      "source": "https://worldofwarcraft.blizzard.com/de-de/news/24307306"
     },
     {
       "uid": "wow-patch-12-1-7-20261202@wowcalendarexport",
       "title": "12.1.7?",
-      "date": "2026-12-02",
+      "date": "2026-12-09",
       "type": "patch",
-      "estimated": true
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     },
     {
       "uid": "wow-patch-12-2-20270127@wowcalendarexport",
-      "title": "12.2?",
-      "date": "2027-01-27",
+      "title": "12.2? - Eclipse",
+      "date": "2027-02-17",
       "type": "patch",
-      "estimated": true
+      "estimated": true,
+      "note": "Eclipse / letztes großes Inhaltsupdate von Midnight",
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     },
     {
       "uid": "wow-patch-12-2-5-20270324@wowcalendarexport",
       "title": "12.2.5?",
-      "date": "2027-03-24",
+      "date": "2027-04-14",
       "type": "patch",
-      "estimated": true
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     },
     {
       "uid": "wow-patch-12-2-7-20270519@wowcalendarexport",
       "title": "12.2.7?",
-      "date": "2027-05-19",
+      "date": "2027-06-09",
       "type": "patch",
-      "estimated": true
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     },
     {
       "uid": "wow-patch-13-0-20270714@wowcalendarexport",
-      "title": "TLT?",
-      "date": "2027-07-14",
+      "title": "13.0? - The Last Titan",
+      "date": "2027-09-08",
       "type": "patch",
       "estimated": true,
-      "note": "The Last Titan / 13.0"
+      "note": "The Last Titan / 13.0",
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     },
     {
       "uid": "wow-blizzcon-2026@wowcalendarexport",
@@ -236,6 +244,78 @@
       "estimated": false,
       "description": "Offizielle World-of-Warcraft-Live-Fragerunde mit Mitgliedern des Entwicklerteams nach den Enthüllungen der BlizzCon 2026. Themen können Retail und World of Warcraft: Forever umfassen. Stream auf den offiziellen Warcraft-Kanälen bei Twitch und YouTube; anschließend soll eine Aufzeichnung verfügbar sein. Offiziell bestätigt ist der Start um 19:00 Uhr MESZ. Eine Endzeit wurde nicht angegeben; der Kalenderblock ist daher zunächst auf eine Stunde gesetzt.",
       "source": "https://worldofwarcraft.blizzard.com/de-de/news/24303312"
+    },
+    {
+      "uid": "wow-patch-13-0-5-20271103@wowcalendarexport",
+      "title": "13.0.5?",
+      "date": "2027-11-03",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-0-7-20280112@wowcalendarexport",
+      "title": "13.0.7?",
+      "date": "2028-01-12",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-1-0-20280308@wowcalendarexport",
+      "title": "13.1.0?",
+      "date": "2028-03-08",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-1-5-20280503@wowcalendarexport",
+      "title": "13.1.5?",
+      "date": "2028-05-03",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-1-7-20280628@wowcalendarexport",
+      "title": "13.1.7?",
+      "date": "2028-06-28",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-2-0-20280823@wowcalendarexport",
+      "title": "13.2.0?",
+      "date": "2028-08-23",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-2-5-20281018@wowcalendarexport",
+      "title": "13.2.5?",
+      "date": "2028-10-18",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-patch-13-2-7-20281213@wowcalendarexport",
+      "title": "13.2.7?",
+      "date": "2028-12-13",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
+    },
+    {
+      "uid": "wow-expansion-next-20290314@wowcalendarexport",
+      "title": "Nächste WoW-Erweiterung?",
+      "date": "2029-03-14",
+      "type": "patch",
+      "estimated": true,
+      "description": "Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt."
     }
   ]
 }
