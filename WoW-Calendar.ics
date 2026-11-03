@@ -490,13 +490,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-12-1-7-20261202@wowcalendarexport
 DTSTAMP:20261001T144710Z
-LAST-MODIFIED:20261103T142405Z
-SEQUENCE:3
+LAST-MODIFIED:20261001T144710Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:12.1.7? - Echos des Weltenkerns
-DESCRIPTION:Offizieller Patchname: Echos des Weltenkerns (12.1.7). Seit 15.10.2026 auf dem PTR. 09.12.2026 ist eine unbestätigte Datumsprognose aus der Patch-Kadenz-Roadmap von @DarkLeafCoven. Das Fragezeichen bleibt bis zur offiziellen Terminbestätigung bestehen.
-URL:https://us.forums.blizzard.com/en/wow/t/midnight-echoes-of-the-worldcore-ptr-development-notes/2383391
+SUMMARY:12.1.7?
+DESCRIPTION:Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt.
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
@@ -630,13 +629,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wow-blizzcon-2026-wow-deep-dive@wowcalendarexport
 DTSTAMP:20260907T060243Z
-LAST-MODIFIED:20261103T142405Z
-SEQUENCE:2
+LAST-MODIFIED:20260907T060243Z
+SEQUENCE:1
 DTSTART:20260913T170000Z
 DTEND:20260913T174500Z
-SUMMARY:BlizzCon – World of Warcraft: Forever – Deep Dive
-DESCRIPTION:Offizielles World-of-Warcraft: Forever-Deep-Dive-Panel am 13.09.2026 um 19:00 Uhr MESZ (10:00 Uhr PDT). Systeme und Designentscheidungen für das neu gestaltete ursprüngliche Azeroth.
-URL:https://news.blizzard.com/en-us/article/24301145/world-of-warcraft-at-blizzcon-2026-news-round-up
+SUMMARY:BlizzCon – World of Warcraft: Deep Dive
+DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
+URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
 CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
 END:VEVENT
