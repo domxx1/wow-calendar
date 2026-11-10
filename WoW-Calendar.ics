@@ -489,25 +489,27 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-12-1-7-20261202@wowcalendarexport
-DTSTAMP:20261001T144710Z
-LAST-MODIFIED:20261001T144710Z
-SEQUENCE:2
+DTSTAMP:20261110T142103Z
+LAST-MODIFIED:20261110T142103Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:12.1.7?
-DESCRIPTION:Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt.
+SUMMARY:12.1.7? - Echos des Weltenkerns
+DESCRIPTION:Blizzard bestätigt Echos des Weltenkerns (Echoes of the Worldcore) als offiziellen Namen für Patch 12.1.7. Das Update befindet sich auf dem PTR. Das Datum 9. Dezember 2026 ist eine unbestätigte Prognose\, kein offizieller Veröffentlichungstermin.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24313102
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-12-2-20270127@wowcalendarexport
-DTSTAMP:20261001T144710Z
-LAST-MODIFIED:20261001T144710Z
-SEQUENCE:2
+DTSTAMP:20261110T142103Z
+LAST-MODIFIED:20261110T142103Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:12.2? - Eclipse
-DESCRIPTION:Prognose aus der am 01.10.2026 bereitgestellten Patch-Kadenz-Roadmap von @DarkLeafCoven. Nicht offiziell von Blizzard bestätigt.
+SUMMARY:12.2? - Finsternis
+DESCRIPTION:Blizzard bestätigt Finsternis (Eclipse) als letztes großes Inhaltsupdate von Midnight. Das Datum 17. Februar 2027 ist eine unbestätigte Prognose\, kein offizieller Veröffentlichungstermin.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24298591
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
@@ -628,14 +630,14 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-blizzcon-2026-wow-deep-dive@wowcalendarexport
-DTSTAMP:20260907T060243Z
-LAST-MODIFIED:20260907T060243Z
-SEQUENCE:1
+DTSTAMP:20261110T142103Z
+LAST-MODIFIED:20261110T142103Z
+SEQUENCE:2
 DTSTART:20260913T170000Z
 DTEND:20260913T174500Z
-SUMMARY:BlizzCon – World of Warcraft: Deep Dive
-DESCRIPTION:Offizieller World-of-Warcraft-Programmpunkt der BlizzCon 2026.
-URL:https://news.blizzard.com/de-de/article/24294375/die-blizzcon-rueckt-immer-naeher-schaltet-live-ein-sichert-euch-belohnungen-und-mehr
+SUMMARY:BlizzCon – World of Warcraft: Forever – Deep Dive
+DESCRIPTION:Offizielles World-of-Warcraft: Forever Deep-Dive-Panel der BlizzCon 2026 am 13. September um 19:00 Uhr MESZ (10:00 Uhr PDT).
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24303862
 CATEGORIES:BlizzCon
 X-WOW-SOURCE:MANUAL
 END:VEVENT
