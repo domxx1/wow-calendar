@@ -489,14 +489,14 @@ X-WOW-SOURCE:MANUAL
 END:VEVENT
 BEGIN:VEVENT
 UID:wow-patch-12-1-7-20261202@wowcalendarexport
-DTSTAMP:20261110T142103Z
-LAST-MODIFIED:20261110T142103Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:12.1.7? - Echos des Weltenkerns
-DESCRIPTION:Blizzard bestätigt Echos des Weltenkerns (Echoes of the Worldcore) als offiziellen Namen für Patch 12.1.7. Das Update befindet sich auf dem PTR. Das Datum 9. Dezember 2026 ist eine unbestätigte Prognose\, kein offizieller Veröffentlichungstermin.
-URL:https://worldofwarcraft.blizzard.com/de-de/news/24313102
+DTSTAMP:20261119T092807Z
+LAST-MODIFIED:20261119T092807Z
+SEQUENCE:4
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:12.1.7 - Echos des Weltenkerns
+DESCRIPTION:Blizzard bestätigt Echos des Weltenkerns (Echoes of the Worldcore) als offiziellen Namen für Patch 12.1.7. Das Inhaltsupdate erscheint am 2. Dezember 2026 im Zuge der regionalen Wartungsarbeiten. Inhalte u. a.: Die Rückkehr nach Dornogal\, Ruf der Legenden\, neue Lehrensuchen\, Turbulente Zeitwege und Erweiterungen des Omniumfolianten.
+URL:https://worldofwarcraft.blizzard.com/de-de/news/24317679
 CATEGORIES:Patch
 X-WOW-SOURCE:MANUAL
 END:VEVENT
